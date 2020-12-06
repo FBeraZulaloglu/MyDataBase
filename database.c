@@ -13,6 +13,11 @@
 #define MAXSQL 10
 #define MAXRESULT 1000
 
+struct Students {
+   char  name[50];
+   char  number[5];
+};
+
 
 void init_database(void);
 char* getResult(char *);
