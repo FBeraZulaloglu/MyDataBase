@@ -1,0 +1,15 @@
+omer 20
+rasim 70
+fatma 23
+talat 20
+ayse 20
+fatma 17
+talat 15
+eren 6
+selin 5
+selin 15
+kamil 8
+okan 8
+selin 20
+pelin 6
+kamil 6
